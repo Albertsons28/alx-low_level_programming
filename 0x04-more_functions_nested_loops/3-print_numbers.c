@@ -2,7 +2,6 @@
 /**
  * print_numbers - prints the digits 1-9
  *
- *Return 0
  */
 void print_numbers(void)
 {
@@ -14,5 +13,4 @@ void print_numbers(void)
 		++i;
 	}
 	_putchar('\n');
-	return (0);
 }
